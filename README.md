@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/nitesh-phulse/nitesh-phulse/assets/98277459/45ce5326-447a-4569-b767-db10bcf0adb9)
+![MasterHead](https://github.com/nitesh-phulse/nitesh-phulse/assets/98277459/45ce5326-447a-4569-b767-db10bcf0adb9)
 
 
 
