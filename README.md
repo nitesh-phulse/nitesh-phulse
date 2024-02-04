@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-🚀My Portfolio:- https://nethishportfolio.netlify.app/
+🚀My Portfolio:- [https://nethishportfolio.netlify.app/](https://nethish-portfolio.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://github.com/nitesh-phulse?tab=repositories](https://github.com/nitesh-phulse?tab=repositories)
 
 - 📫 How to reach me **niteshphulse4@gmail.com**
